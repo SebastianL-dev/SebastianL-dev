@@ -4,8 +4,6 @@
 <h1 align="center">Hey, I'm Sebastián Lozano 👋</h1>
 <p align="center">I love web development. My main focus has been on frontend development but recently i have been improving my backend development skills. I'm from Colombia. ;)</p>
 
-<br/><br/>
-
 ## About me 🍂
 
 - 📓 Currently, i'm styding in university (UPTC).
@@ -30,8 +28,6 @@
   [![Npm](https://img.shields.io/badge/Packages-npm-C03534?style=for-the-badge&logo=npm&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Git](https://img.shields.io/badge/Versions-Git-E94E31?style=for-the-badge&logo=git&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
 
----
-  
   [![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Cloudflare](https://img.shields.io/badge/Deployment-Cloudflare-EB7C1F?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Render](https://img.shields.io/badge/Deployment-Render-101010?style=for-the-badge&logo=render&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
@@ -39,8 +35,6 @@
   [![Postman](https://img.shields.io/badge/Tool-Postman-F56933?style=for-the-badge&logo=postman&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![GitHub](https://img.shields.io/badge/Tool-Github-101010?style=for-the-badge&logo=github&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![MongoDB](https://img.shields.io/badge/DataBase-MongoDB-4FAD40?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
-
----
   
   [![React](https://img.shields.io/badge/Library-React-00D1F7?style=for-the-badge&logo=react&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Mongoose](https://img.shields.io/badge/Library-Mongoose-4FAD40?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
@@ -50,8 +44,6 @@
   [![Nextjs](https://img.shields.io/badge/Framework-Next-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Expressjs](https://img.shields.io/badge/Framework-Express-ffd800?style=for-the-badge&logo=express&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![ReactNative](https://img.shields.io/badge/Framework-ReactNative-00D1F7?style=for-the-badge&logo=react&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
-  
----
   
   [![Inkscape](https://img.shields.io/badge/Design-InkScape-101010?style=for-the-badge&logo=inkscape&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Figma](https://img.shields.io/badge/Design-Figma-9D56F7?style=for-the-badge&logo=figma&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
