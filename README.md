@@ -4,7 +4,7 @@
 <h1 align="center">Hey, I'm Sebastián Lozano 👋</h1>
 <p align="center">I love web development. My main focus has been on frontend development but recently i have been improving my backend development skills. I'm from Colombia. ;)</p>
 
-## About me 🍂
+## 🍂 About me
 
 - 📓 Currently, i'm styding in university (UPTC).
 - 🌿 I'm 18.
@@ -12,7 +12,7 @@
 - 🎨 I'm frontend developer.
 - ⚙️ I'm learning backend and databases.
 
-## My skills 🗃️
+## 🗃️ My skills
 <div align="center">
   
   [![HTML](https://img.shields.io/badge/Code-HTML-E46624?style=for-the-badge&logo=html5&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
@@ -26,7 +26,6 @@
   [![TailwindCSS](https://img.shields.io/badge/Styles-TailwindCSS-3ABBF7?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Pnpm](https://img.shields.io/badge/Packages-pnpm-F1A701?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Npm](https://img.shields.io/badge/Packages-npm-C03534?style=for-the-badge&logo=npm&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
-  [![Git](https://img.shields.io/badge/Versions-Git-E94E31?style=for-the-badge&logo=git&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
 
   [![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Cloudflare](https://img.shields.io/badge/Deployment-Cloudflare-EB7C1F?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
@@ -34,6 +33,7 @@
   [![Vite](https://img.shields.io/badge/Tool-Vite-AB40F6?style=for-the-badge&logo=vite&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Postman](https://img.shields.io/badge/Tool-Postman-F56933?style=for-the-badge&logo=postman&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![GitHub](https://img.shields.io/badge/Tool-Github-101010?style=for-the-badge&logo=github&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
+  [![Git](https://img.shields.io/badge/Tool-Git-E94E31?style=for-the-badge&logo=git&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![MongoDB](https://img.shields.io/badge/DataBase-MongoDB-4FAD40?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   
   [![React](https://img.shields.io/badge/Library-React-00D1F7?style=for-the-badge&logo=react&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
@@ -50,6 +50,12 @@
 
 </div>
 
-## GitHub Stats 📊 
+## 📊 GitHub Stats
 
 <a href="https://github.com/sebastianl-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianl-dev&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Sebastian Lozano's GitHub stats" /></a> ✨ <a href="https://github.com/sebastianl-dev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianl-dev&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
+
+## 🌐 Social
+[![Instagram](https://img.shields.io/badge/Instagram-F301A7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222222)](https://www.instagram.com/sebastianlozano086/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=222222)](https://www.facebook.com/profile.php?id=100075386744152)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=logmein&logoColor=white&labelColor=222222)](www.linkedin.com/in/sebastián-fernando-lozano-512ab933a)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=222222)](https://open.spotify.com/user/31smepsq2m5jx4zfom6rg64o4g4m?si=1b525720582640d3)
