@@ -54,9 +54,6 @@
 
 <a href="https://github.com/sebastianl-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianl-dev&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Sebastian Lozano's GitHub stats" /></a> ✨ <a href="https://github.com/sebastianl-dev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianl-dev&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 🌐 Social
 [![Instagram](https://img.shields.io/badge/Instagram-F301A7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222222)](https://www.instagram.com/sebastianlozano086/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=222222)](https://www.facebook.com/profile.php?id=100075386744152)
