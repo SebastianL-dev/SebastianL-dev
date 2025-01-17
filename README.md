@@ -55,7 +55,7 @@
 <a href="https://github.com/sebastianl-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianl-dev&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Sebastian Lozano's GitHub stats" /></a> ✨ <a href="https://github.com/sebastianl-dev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianl-dev&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
 
 ## 🌐 Social
-[![Instagram](https://img.shields.io/badge/Instagram-F301A7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222222)](https://www.instagram.com/sebastianlozano086/)
+[![Instagram](https://img.shields.io/badge/Instagram-F301A7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222222)](https://www.instagram.com/sebastianl_dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=222222)](https://www.facebook.com/profile.php?id=100075386744152)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=logmein&logoColor=white&labelColor=222222)](www.linkedin.com/in/sebastián-fernando-lozano-512ab933a)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&labelColor=222222)](https://open.spotify.com/user/31smepsq2m5jx4zfom6rg64o4g4m?si=1b525720582640d3)
