@@ -9,7 +9,7 @@
 - 📓 Currently, i'm styding in university (UPTC).
 - 🌿 I'm 18 years old.
 - 🧡 I love JavaScript and TypeScript.
-- 🎨 I'm frontend developer.
+- 🎨 I'm a Fullstack developer.
 - ⚙️ I'm learning backend and databases.
 
 ## 🗃️ My skills
