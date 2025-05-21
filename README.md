@@ -19,13 +19,10 @@
   [![JavaScript](https://img.shields.io/badge/Code-JavaScript-ffd800?style=for-the-badge&logo=javascript&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![TypeScript](https://img.shields.io/badge/Code-TypeScript-0175C9?style=for-the-badge&logo=typescript&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![JWT](https://img.shields.io/badge/Code-JWT-00EAE0?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
-  [![Json](https://img.shields.io/badge/Code-Json-101010?style=for-the-badge&logo=json&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Nodejs](https://img.shields.io/badge/Code-Nodejs-509941?style=for-the-badge&logo=node.js&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Ts-node](https://img.shields.io/badge/Code-TsNode-0175C9?style=for-the-badge&logo=ts-node&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![CSS](https://img.shields.io/badge/Styles-CSS-0396DE?style=for-the-badge&logo=css3&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![TailwindCSS](https://img.shields.io/badge/Styles-TailwindCSS-3ABBF7?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
-  [![Pnpm](https://img.shields.io/badge/Packages-pnpm-F1A701?style=for-the-badge&logo=pnpm&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
-  [![Npm](https://img.shields.io/badge/Packages-npm-C03534?style=for-the-badge&logo=npm&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
 
   [![Vercel](https://img.shields.io/badge/Deployment-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Cloudflare](https://img.shields.io/badge/Deployment-Cloudflare-EB7C1F?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
@@ -37,8 +34,6 @@
   [![MongoDB](https://img.shields.io/badge/DataBase-MongoDB-4FAD40?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   
   [![React](https://img.shields.io/badge/Library-React-00D1F7?style=for-the-badge&logo=react&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
-  [![Mongoose](https://img.shields.io/badge/Library-Mongoose-4FAD40?style=for-the-badge&logo=mongoose&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
-  [![Zod](https://img.shields.io/badge/Library-Zod-2769AF?style=for-the-badge&logo=zod&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Astro](https://img.shields.io/badge/Framework-Astro-E43DE2?style=for-the-badge&logo=astro&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Remix](https://img.shields.io/badge/Framework-Remix-101010?style=for-the-badge&logo=remix&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![Nextjs](https://img.shields.io/badge/Framework-Next-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
