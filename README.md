@@ -1,7 +1,8 @@
-![BannerGH](https://github.com/user-attachments/assets/887009d8-68a8-4970-97c2-b4ceec5df95b)
+![BannerGH](https://github.com/user-attachments/assets/9e332e2c-67b6-4768-8d44-4a0b907d4e29)
 
 <br/>
 <h1 align="center">Hey, I'm Sebastián Lozano 👋</h1>
+
 <p align="center">I love web development. My main focus has been on frontend development but recently i have been improving my backend development skills. I'm from Colombia. ;)</p>
 
 ## 🍂 About me
