@@ -7,7 +7,6 @@
 
 ## 🍂 About me
 
-- 📓 Currently, i'm studying in university (UPTC).
 - 🌿 I'm 18 years old.
 - 🧡 I love JavaScript and TypeScript.
 - 🎨 I'm a Fullstack developer.
@@ -28,10 +27,6 @@
   [![Expressjs](https://img.shields.io/badge/Framework-Express-ffd800?style=for-the-badge&logo=express&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
   [![ReactNative](https://img.shields.io/badge/Framework-ReactNative-00D1F7?style=for-the-badge&logo=react&logoColor=white&labelColor=222222)](https://github.com/SebastianL-dev/)
 </div>
-
-## 📊 GitHub Stats
-
-<a href="https://github.com/sebastianl-dev"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianl-dev&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="Sebastian Lozano's GitHub stats" /></a> ✨ <a href="https://github.com/sebastianl-dev/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianl-dev&layout=compact&theme=ayu-mirage&hide_border=true" /></a>
 
 ## 🌐 Social
 [![Instagram](https://img.shields.io/badge/Instagram-F301A7?style=for-the-badge&logo=instagram&logoColor=white&labelColor=222222)](https://www.instagram.com/sebastianl_dev/)
