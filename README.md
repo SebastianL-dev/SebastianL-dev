@@ -4,14 +4,17 @@
 
 <h1 align="center">👋 ¡Hey! I'm Sebastián Lozano</h1>
 
-<p align="center">I'm a Full Stack Developer from Colombia with experience in UI/UX design, frontend and backend development with JavaSvript. I created some beautiful and functional projects. You can check them on my portfolio: https://sebastianl.dev/  :)</p>
+<p align="center">I'm a Full Stack Developer from Colombia with experience in UI/UX design, frontend and backend development with **JavaSvript**. I created some beautiful and functional projects. You can check them on My Portfolio: https://sebastianl.dev  :)</p>
+
+
 
 ## 🍂 About me
-I'm 19 years old. I love web development, UI/UX design and Backend logic. My favorite programming language is JavaScript. I have experience developing full-stack web applications, using with modern JavaScript frameworks, REST APIs, and database integration.
+I'm 19 years old. I love **web development**, **UI/UX design** and **backend logic**. My favorite programming language is JavaScript. I have experience developing full-stack web applications, using with modern JavaScript frameworks, REST APIs, and database integration.
 
 - I'm currently learning Nuxt.
 - I'm looking for opportunities in Frontend/Backend development.
-- I can crate a beatuful, scalable and functional application for you, contact me.
+- I can crate a beautiful, scalable and functional application for you, contact me.
+- You can check my projects and contact me on **[My Portfolio](https://sebastianl.dev)**
 
 ## 💻 My skills
 ### Programming Languages
@@ -119,15 +122,9 @@ I'm 19 years old. I love web development, UI/UX design and Backend logic. My fav
 <img src="https://github.com/user-attachments/assets/067a6f38-a968-49c8-9334-a1b4ed602147" alt="snake"  />
 </div>
 
----
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SebastianL-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=My%20Last%20Year%20Stats" height="165" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianL-Dev&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=My%20Favorite%20Languages" height="350" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=SebastianL-Dev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
 ## 🌎 Social Media
