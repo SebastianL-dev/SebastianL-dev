@@ -130,13 +130,6 @@ I'm 19 years old. I love web development, UI/UX design and Backend logic. My fav
   <img src="https://streak-stats.demolab.com?user=SebastianL-Dev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
-## 🎵 Music
-<div align="left">
-  <a href="https://open.spotify.com/user/31smepsq2m5jx4zfom6rg64o4g4m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31smepsq2m5jx4zfom6rg64o4g4m&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ## 🌎 Social Media
 <div align="left">
   <a href="www.linkedin.com/in/sebastianl-dev" target="_blank">
