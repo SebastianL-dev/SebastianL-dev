@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 ¡Hey! I'm Sebastián Lozano</h1>
 
-<p align="center">I'm a Full Stack Developer from Colombia with experience in UI/UX design, frontend and backend development with **JavaSvript**. I created some beautiful and functional projects. You can check them on My Portfolio: https://sebastianl.dev  :)</p>
+<p align="center">I'm a Full Stack Developer from Colombia with experience in UI/UX design, frontend and backend development with <strong>JavaSvript</strong>. I created some beautiful and functional projects. You can check them on My Portfolio: https://sebastianl.dev  :)</p>
 
 
 
