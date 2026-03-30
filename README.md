@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="971" height="305" alt="BannerGH" src="https://github.com/user-attachments/assets/603c2f91-c624-4a2b-8a94-0ab03a618fd5" />
+  <img width="1200" height="600" alt="S2L_Banner" src="https://github.com/user-attachments/assets/0ea42375-920e-495b-9b8f-179d231d2802" />
 </div>
+
 
 <h1 align="center">👋 ¡Hey! I'm Sebastián Lozano</h1>
 
