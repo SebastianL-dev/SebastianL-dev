@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="600" alt="S2L_Banner" src="https://github.com/user-attachments/assets/0ea42375-920e-495b-9b8f-179d231d2802" />
+  <img width="1200" height="600" alt="banner" src="https://github.com/user-attachments/assets/509617a4-7bcf-41a8-a944-c813e2b3988d" />
 </div>
 
 
@@ -44,6 +44,5 @@ I'm 19 years old. I love **web development**, **UI/UX design** and **backend log
 
 ## 🌎 Social Media
 [![Linkedin](https://i.icoziv.workers.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastianl-dev)
-[![Instagram](https://i.icoziv.workers.dev/icons?i=instagram)](https://www.instagram.com/sebastianl_dev)
-[![Facebook](https://i.icoziv.workers.dev/icons?i=facebook)](https://www.facebook.com/sebastian.lozano.152333)
+[![Twitter](https://i.icoziv.workers.dev/icons?i=x)](https://x.com/s2l_dev)
 
